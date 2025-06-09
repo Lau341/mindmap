@@ -51,10 +51,31 @@
 ### Librerias
 #### Pandas
 - Estructuras de datos y herramientas de análisis de datos de alto rendimiento. Está especialmente diseñada para trabajar con datos estructurados, como tablas o bases de datos, de manera eficiente.
+##### Actividades
+- 1. https://github.com/Lau341/ejercicio/blob/main/apandas.py
+- 2. https://github.com/Lau341/ejercicio/blob/main/apandas2.py
+- 3. https://github.com/Lau341/ejercicio/blob/main/apandas3.py
+- 4. https://github.com/Lau341/ejercicio/blob/main/apandas4.py
+- 5. https://github.com/Lau341/ejercicio/blob/main/lau07_04.py
+#### Numpy
+##### Actividades
+- 1. https://github.com/Lau341/ejercicio/blob/main/lau01_04.py
+- 2. https://github.com/Lau341/ejercicio/blob/main/lau01_04(2).py
 #### Matplotlib
 -  biblioteca de Python de código abierto para crear visualizaciones de datos en dos dimensiones
+##### Actividades
+- 1. https://github.com/Lau341/ejercicio/blob/main/lau0804.py
+- 2. https://github.com/Lau341/ejercicio/blob/main/lau0804(2).py
+- 3. https://github.com/Lau341/ejercicio/blob/main/lau0804(3).py
+- 5. https://github.com/Lau341/ejercicio/blob/main/lau05_05.py
+- 6. https://github.com/Lau341/ejercicio/blob/main/lau05_05(2).py
+- 7. https://github.com/Lau341/ejercicio/blob/main/lau06_05.py
+- 8. https://github.com/Lau341/ejercicio/blob/main/lau06_05(2).py
 #### Seaborn
 - facilita la visualización de datos, especialmente en el ámbito de la estadística. Se basa en Matplotlib y ofrece una interfaz de alto nivel para crear gráficos atractivos e informativos.
+##### Actividades
+- 1. https://github.com/Lau341/ejercicio/blob/main/lau02_06.ipynb
+- 2. https://github.com/Lau341/ejercicio/blob/main/lau02_06(2).ipynb
 ##### Scatterplot
 - Grafico de dispersion
 ##### Histplot
