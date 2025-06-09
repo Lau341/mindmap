@@ -94,3 +94,6 @@
 - Estructura simple
 ## Instalador
 - pip
+## Herramientas
+### Jupiter Notebook
+- código abierto que permite crear y compartir documentos interactivos que combinan código, texto, visualizaciones y resultados computacionales
